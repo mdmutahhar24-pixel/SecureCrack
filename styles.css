@@ -1,0 +1,31 @@
+body {
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    background-color: black;
+    color: white;
+    font-family:'Courier New', Courier, monospace;
+}
+
+p {
+    color: gray;
+}
+
+button {
+    border-radius: 10px;
+    border: 2px solid red;
+    background-color: black;
+    color: white;
+    padding: 10px;
+}
+
+.answer input {
+    border-radius: 6px;
+    width: 500px;
+    padding: 10px;
+    border: 2px red solid;
+    background-color: #232023;
+    text-align: center;
+    color: white;
+}
